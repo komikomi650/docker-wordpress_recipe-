@@ -1,8 +1,0 @@
-# ignoreファイルを除外
-.gitignore
-
-# old ファイルを除外
-*.old
-
-# フォルダごと除外
-db_data
